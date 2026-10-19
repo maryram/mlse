@@ -3,8 +3,8 @@ course_name: Social & Economic Networks
 course_description: "This course explores the structure and impact of social and economic networks. Students will learn key concepts such as network structure, information diffusion, strategic network formation, and economic effects. Using theoretical models, empirical analysis, and case studies, the course examines the role of networks in modern economies and societies."
 course_semester: "Spring 2025"
 
-baseurl: "/socialnetwork" # the subpath of your site, e.g. /blog/
-url: "http://sut-ce-courses.github.io/" # the base hostname & protocol for your site
+baseurl: "/mlse" # the subpath of your site, e.g. /blog/
+url: "http://maryram.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Sharif University of Technology"
 schoolurl: "https://sharif.edu"
